@@ -69,7 +69,7 @@ msgstr ""
 
 #: search.php:24
 msgid "Search results for:"
-msgstr ""
+msgstr "Resultados de búsqueda para:"
 
 #. views/404.html.twig
 msgid "404 Page not found"
@@ -93,7 +93,7 @@ msgstr "Buscar por:"
 
 #. views/searchform.html.twig
 msgid "Search …"
-msgstr ""
+msgstr "Buscar …"
 
 #. views/partials/comments.html.twig
 msgid "comments"
@@ -121,7 +121,7 @@ msgstr ""
 
 #. views/partials/comments.html.twig
 msgid "Log out of this account"
-msgstr ""
+msgstr "Salir de esta cuenta"
 
 #. views/partials/comments.html.twig
 msgid "Log out &raquo;"
